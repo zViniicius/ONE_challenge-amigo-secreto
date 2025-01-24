@@ -1,5 +1,5 @@
 # Amigo Secreto
-![Amigo Secreto](assets/amigo-secreto.png)
+
 Este é um projeto simples de Amigo Secreto proposto como parte do Challenge ONE + Alura. Nele, você pode adicionar nomes de amigos, sortear um amigo secreto e exibir o resultado em um modal.
 
 
